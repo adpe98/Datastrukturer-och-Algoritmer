@@ -1,0 +1,23 @@
+
+
+_______--I is_connected.c--________
+
+-Tog bort check if the same funktionen då den ställde till hanteringen av inmatning där 
+destination och source var samma. 
+
+-Lagt till max node char length = 41 så att mängden kanter blir korrekt.
+
+-Uppdaterade check the input funktionen för att göra så att programmet säger till om 
+vi inputar mindre än 2 dest/source.
+
+-Uppdaterade find_path_funktionen så att den nu gör en kopia dlist och sedan använder dlist_kill enligt önskemål.
+
+
+
+________--I RAPPORTEN--__________
+
+-Lagt till Psuedokod i rapporten
+
+-Funktionsförklaring har lagts till för dlist_kill
+
+-Lagt till algoritmbeskrivningar 
