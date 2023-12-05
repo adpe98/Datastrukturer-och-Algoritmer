@@ -7,7 +7,7 @@
  * The 'seen' status is useful for graph traversal algorithms like breadth-first search.
  *
  * Authors: Adam Pettersson
- *	    Markus Granath
+ *	   
  *
  *
  * Version information:
