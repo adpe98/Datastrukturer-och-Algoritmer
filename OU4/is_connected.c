@@ -7,7 +7,6 @@
  * in the graph and prints the result.
  *
  * Authors: Adam Pettersson
- *	    Markus Granath
  *
  *
  * Version information:
